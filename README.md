@@ -1,4 +1,4 @@
-# TDD Rediscovered-Exercise
+# TDD Rediscovered Unit Tests Exercise
 
 ## The Exercise
 
