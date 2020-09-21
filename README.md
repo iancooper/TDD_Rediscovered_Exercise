@@ -4,7 +4,7 @@
 
 ### The Bowling Game Kata
 
-Inspired by (Ron Jeffries)[https://ronjeffries.com/xprog/articles/acsbowling/]
+Inspired by [Ron Jeffries](https://ronjeffries.com/xprog/articles/acsbowling/)
 
 
 
